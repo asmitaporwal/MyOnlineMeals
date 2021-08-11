@@ -12,7 +12,7 @@ Here in this website:
  5. On Contact page you can contact us.
  
 # Preview of home page
-![image]() 
+![image](https://github.com/asmitaporwal/MyOnlineMeals/blob/master/HomePage.png) 
 
 # Link for the website
 
